@@ -4,3 +4,4 @@ version = "0.1.0"
 
 [tool.streamlit]
 component_dirs = ["."]
+package-mode = false

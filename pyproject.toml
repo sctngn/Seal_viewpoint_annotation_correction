@@ -1,0 +1,6 @@
+[project]
+name = "seal-annotator"
+version = "0.1.0"
+
+[tool.streamlit]
+component_dirs = ["."]

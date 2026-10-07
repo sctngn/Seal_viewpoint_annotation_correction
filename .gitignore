@@ -1,0 +1,26 @@
+# Dataset
+metadata/
+miewid__norppa/
+viewpoint_embeddings/
+
+
+# Data files
+*.npy
+*.npz
+*.pkl
+*.pickle
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

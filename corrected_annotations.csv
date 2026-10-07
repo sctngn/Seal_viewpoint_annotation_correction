@@ -1,0 +1,7 @@
+annotation_uuid,original_viewpoint,pred_viewpoint,corrected_viewpoint,timestamp,corrected_viewpoint_soft
+5745b228-f4d2-439b-b8bc-c4c5e8b28514,left,right,right,02-09-2026 14:43:15 GMT+0300,
+b1b10467-3305-45ce-b54c-b4d2d754b8c5,left,right,right,02-09-2026 14:43:35 GMT+0300,
+7b761827-3c2b-4b28-9912-02a155afaf21,left,right,right,02-09-2026 14:43:38 GMT+0300,
+f5532ca8-a842-4055-b282-1a28a0e1f7f9,left,right,right,02-09-2026 14:43:40 GMT+0300,
+d3a2e65d-ea22-45ce-946d-e75752a301c4,right,left,left,02-09-2026 14:44:34 GMT+0300,
+9ff5ec0b-7727-460d-9c47-ba4ac94bb8c7,left,right,continuous,02-09-2026 15:00:43 GMT+0300,"{""left"": 0.7, ""right"": 0.3}"
